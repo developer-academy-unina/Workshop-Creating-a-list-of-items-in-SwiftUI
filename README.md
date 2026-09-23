@@ -60,7 +60,7 @@ In this workshop, you will cover:
 
 ### Installation
 
-To get access to the project created during the workshop, you can [download the repository as a zip file](https://github.com/developer-academy-unina/Workshop-Creating-a-list-of-items-in-SwiftUI/archive/refs/heads/main.zip) and access the Learners project in the folder `StarterProject`.
+To get access to the project created during the workshop, you can [download the repository as a zip file](https://github.com/developer-academy-unina/Workshop-Creating-a-list-of-items-in-SwiftUI/archive/refs/heads/main.zip) and access the Learners project in the folder `FinalProject`. The starter project to follow along in the workshop is in the folder `StarterProject`.
 
 ## Issues and Discussions
 
