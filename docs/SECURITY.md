@@ -2,9 +2,9 @@
 
 ## Reporting a Vulnerability
 
-If there are any vulnerabilities in **Activity-Template**, don't hesitate to _report them_.
+If there are any vulnerabilities in **Workshop-Creating-a-list-of-items-in-SwiftUI**, don't hesitate to _report them_.
 
-1. Use any of the [private contact addresses](https://github.com/developer-academy-unina/Activity-Template#support).
+1. Use any of the [private contact addresses](https://github.com/developer-academy-unina/Workshop-Creating-a-list-of-items-in-SwiftUI#support).
 2. Describe the vulnerability.
 
    If you have a fix, that is most welcome -- please attach or summarize it in your message!

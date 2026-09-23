@@ -1,6 +1,6 @@
 <div align="center">
-  <h3>Session</h3>
-  <h1>Activity-Template</h1>
+  <h3>Workshop</h3>
+  <h1>Creating a list of items in SwiftUI</h1>
   <br />
   <a href="https://github.com/developer-academy-unina/Activity-Template/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
   ·
@@ -13,10 +13,10 @@
     <img src="https://img.shields.io/static/v1?label=Version&message=1.0.0&color=brightgreen" />
   </a>
   <a href="#" alt="XCode Version">
-    <img src="https://img.shields.io/static/v1?label=XCode%20Version&message=13.0&color=brightgreen&logo=xcode" />
+    <img src="https://img.shields.io/static/v1?label=Xcode%20Version&message=27.0&color=brightgreen&logo=xcode" />
   </a>        
   <a href="#" alt="Swift Version">
-    <img src="https://img.shields.io/static/v1?label=Swift%20Version&message=13.0&color=brightgreen&logo=swift" />
+    <img src="https://img.shields.io/static/v1?label=Swift%20Version&message=6.0&color=brightgreen&logo=swift" />
   </a>
   <a href="#" alt="Framework used">
     <img src="https://img.shields.io/static/v1?label=Framework%20used&message=SwiftUI&color=brightgreen&logo=swift"
@@ -30,7 +30,6 @@
 - [About](#about)
 - [Getting Started](#getting-started)
   - [Installation](#installation)
-  - [How to](how-to)
 - [Issues and Discussions](#issues-and-discussions)
 - [Support](#support)
 - [Authors & contributors](#authors--contributors)
@@ -39,56 +38,33 @@
 </details>
 
 ---
-<br />
 
 ## About
 
-> **[?]**
-> Provide general information about your project here.
-> What problem does it (intend to) solve?
-> What is the purpose of your project?
-> Why did you undertake it?
-> You don't have to answer all the questions -- just the ones relevant to your project.
+In this workshop you will create a list of items based on a simple data source. Follow along and by the end you can have access to the project created during the workshop by downloading it from the repository.
 
-<summary>Screenshots</summary>
-<br>
+In this workshop, you will cover:
+- How to create an iOS project with Xcode
+- How to create interface elements using SwiftUI
+- How to run your project on the simulator
+- How to preview your project using Xcode Previews
+- How to create a list in SwiftUI
 
-> **[?]**
-> Please provide your screenshots here.
+### Screenshots
 
-|                               Home Page                               |                               Login Page                               |
-| :-------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-| <img src="docs/images/screenshot.png" title="Home Page" width="100%"> | <img src="docs/images/screenshot.png" title="Login Page" width="100%"> |
-
-<br />
+|                               Main View                               |
+| :-------------------------------------------------------------------: |
+| <img src="docs/images/screenshot.png" title="Main View" width="20%">  |
 
 ## Getting Started
 
 ### Installation
 
-1. Clone the repo
-
-   ```sh
-   git clone https://github.com/developer-academy-unina/Activity-Template
-   ```
-
-2. Open the ```.xcodeproj``` file
-
-### How to
-
-1. Do Some...
-
-   ```sh
-   git clone https://github.com/developer-academy-unina/Activity-Template
-   ```
-
-2. ...
-
-<br />
+To get access to the project created during the workshop, you can [download the repository as a zip file](https://github.com/developer-academy-unina/Workshop-Creating-a-list-of-items-in-SwiftUI/archive/refs/heads/main.zip) and access the Learners project in the folder `StarterProject`.
 
 ## Issues and Discussions
 
-You've found a bug in the source code, a mistake in the documentation or maybe you'd like a new feature? Take a look at [GitHub Discussions](https://github.com/developer-academy-unina/Activity-Template/discussions) to see if it's already being discussed. You can help us by [submitting an issue on GitHub](https://github.com/developer-academy-unina/Activity-Template/issues). Before you create an issue, make sure to search the issue archive -- your issue may have already been addressed!
+You've found a bug in the source code, a mistake in the documentation or maybe you'd like a new feature? Take a look at [GitHub Discussions](https://github.com/developer-academy-unina/Activity-Template/discussions) to see if it's already being discussed. You can help us by [submitting an issue on GitHub](https://github.com/developer-academy-unina/Workshop-Creating-a-list-of-items-in-SwiftUI/issues). Before you create an issue, make sure to search the issue archive -- your issue may have already been addressed!
 
 Please try to create bug reports that are:
 
@@ -97,25 +73,19 @@ Please try to create bug reports that are:
 - _Unique._ Do not duplicate existing opened issues.
 - _Scoped to a Single Bug._ One bug per report.
 
-<br />
-
 ## Support
 
 Reach out to the maintainer at one of the following places:
 
-- [GitHub Discussions](https://github.com/developer-academy-unina/Activity-Template/discussions)
-- [GitHub issues](https://github.com/developer-academy-unina/Activity-Template/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+)
+- [GitHub Discussions](https://github.com/developer-academy-unina/Workshop-Creating-a-list-of-items-in-SwiftUI/discussions)
+- [GitHub issues](https://github.com/developer-academy-unina/Workshop-Creating-a-list-of-items-in-SwiftUI/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+)
 - Contact a Mentor for any other help
-
-<br />
 
 ## Authors & contributors
 
-The original setup of this repository is by [...](https://github.com/...).
+The original setup of this repository is by [Jan Armbrust](https://github.com/n0rthk1n9).
 
-For a full list of all authors and contributors, see [the contributors page](https://github.com/developer-academy-unina/Activity-Template/contributors).
-
-<br />
+For a full list of all authors and contributors, see [the contributors page](https://github.com/developer-academy-unina/Workshop-Creating-a-list-of-items-in-SwiftUI/contributors).
 
 ## License
 
