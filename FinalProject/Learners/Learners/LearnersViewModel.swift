@@ -22,7 +22,7 @@ class LearnersViewModel {
         Learner(firstName: "Beatriz", lastName: "Oliveira", favoriteColor: .yellow),
         Learner(firstName: "Tanvir", lastName: "Rahman", favoriteColor: .mint),
         Learner(firstName: "Mehdi", lastName: "Trabelsi", favoriteColor: .gray),
-        Learner(firstName: "Oksana", lastName: "Shevchenko", favoriteColor: .brown),
+        Learner(firstName: "Oksana", lastName: "Shevchenko", favoriteColor: .teal),
         Learner(firstName: "Arjun", lastName: "Sharma", favoriteColor: .orange),
         Learner(firstName: "Katarzyna", lastName: "Nowak", favoriteColor: .red),
         Learner(firstName: "Faisal", lastName: "Al Qahtani", favoriteColor: .mint),
@@ -30,10 +30,10 @@ class LearnersViewModel {
         Learner(firstName: "Dmitri", lastName: "Volkov", favoriteColor: .blue),
         Learner(firstName: "Amina", lastName: "Benali", favoriteColor: .purple),
         Learner(firstName: "Chinedu", lastName: "Okafor", favoriteColor: .red),
-        Learner(firstName: "Zahra", lastName: "Ahmadzai", favoriteColor: .brown),
+        Learner(firstName: "Zahra", lastName: "Ahmadzai", favoriteColor: .yellow),
         Learner(firstName: "Alejandro", lastName: "Hernández", favoriteColor: .teal),
         Learner(firstName: "Aigerim", lastName: "Nurlanova", favoriteColor: .cyan),
-        Learner(firstName: "Nimal", lastName: "Perera", favoriteColor: .orange),
+        Learner(firstName: "Nimal", lastName: "Perera", favoriteColor: .yellow),
         Learner(firstName: "Parisa", lastName: "Rahimi", favoriteColor: .teal),
     ]
 }
